@@ -1,0 +1,10 @@
+<ForEach content="post" as="post" count="{count}">
+
+    <div class="cursor-pointer pt-8" onClick="window.location='{post.link}'">
+        <h2 class="mb-2">
+            <a href="{post.link}" class="text-xl hover:underline tracking-tight leading-tight font-semibold dark:text-stone-100">{post.title}</a>
+        </h2>
+        <p class="text-stone-500 text-sm">{post.description}</p>
+    </div>
+
+</ForEach>
