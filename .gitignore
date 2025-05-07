@@ -2,3 +2,4 @@
 src/data/collections/*
 !src/data/collections/.gitkeep
 .DS_Store
+_site
