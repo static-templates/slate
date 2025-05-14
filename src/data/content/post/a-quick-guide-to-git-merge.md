@@ -5,8 +5,6 @@ created_at: 2025-05-03 22:31:39
 updated_at: 2025-05-03 22:31:39
 ---
 
-# A Quick Guide to `git merge`
-
 `git merge` is a fundamental Git command used to combine the changes from one branch into another. It helps teams and individuals bring together work from different branches in a project.
 
 ## What is `git merge`?
