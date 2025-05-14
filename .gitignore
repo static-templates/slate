@@ -1,5 +1,5 @@
 # Ignore all files in data/collections, but not the folder itself
-src/data/collections/*
-!src/data/collections/.gitkeep
+src/data/collections/content/*
+!src/data/collections/content/.gitkeep
 .DS_Store
 _site
